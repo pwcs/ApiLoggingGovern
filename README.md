@@ -22,7 +22,7 @@ api接口日志治理
 * 提升测试在开发团队的影响力
 * 推动告警配置的完善
 * 推动逻辑优化、告警级别调整、依赖方的问题、环境问题、历史脏数据问题、上下游发布导致、接口超时、索引问题、数据库问题、定时任务问题
-![](https://github.com/pwcs/ApiLoggingGovern/pwcs.png)  
+![](https://github.com/pwcs/ApiLoggingGovern/blob/main/pwcs.png)  
 
 ## [治理要点]
 - [ ] 日志的可读性
