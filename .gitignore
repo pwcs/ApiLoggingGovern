@@ -3,3 +3,5 @@
 ################################################################################
 
 /ApiLoggingGovern/bin/Debug/net5.0
+/ApiLoggingGovern/Logs
+/ApiLoggingGovern/obj
